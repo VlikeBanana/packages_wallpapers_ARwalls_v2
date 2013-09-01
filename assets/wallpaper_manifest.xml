@@ -14,118 +14,70 @@
         name="<wallpaper name">
     -->
 
-    <category name="AOKP" >
+    <category name="ARWalls" >
 
         <wallpaper
-            author="ThaPHLASH"
-            url="http://aokp.co/wallpapers/thaplash_logo_head_office.jpg" />
+            author="SwagWolf"
+            url="http://i.imgur.com/YSZlezo.jpg" />
+            
+        <wallpaper
+            author="Canyon"
+            url="http://i.imgur.com/bNKI81t.jpg" />
 
         <wallpaper
-            author="ThaPHLASH"
-            url="http://aokp.co/wallpapers/thaplash_logo_head_office2.jpg" />
+            author="Nexus4Green"
+            url="http://i.imgur.com/8oONWeN.jpg" />
+        
+        <wallpaper
+            author="City"
+            url="http://i.imgur.com/1LZHkxg.jpg" />
 
         <wallpaper
-            author="eatmode4life"
-            url="http://aokp.co/wallpapers/eatmode4life_skycore.jpg" />
+            author="Abstract"
+            url="http://i.imgur.com/ModKw92.jpg" />
+        
+        <wallpaper
+            author="Abstract"
+            url="http://i.imgur.com/MSuRbmO.jpg" />
 
         <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_striped_blue.jpg" />
+            author="VioletteHD"
+            url="http://i.imgur.com/rP3zjii.jpg" />
+            
+        <wallpaper
+            author="GreenHD"
+            url="http://i.imgur.com/nv4Evsw.jpg" />
 
         <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_striped.jpg" />
+            author="PurpbleHD"
+            url="http://i.imgur.com/rJIQQBS.jpg" />
+        
+        <wallpaper
+            author="Yolo"
+            url="http://i.imgur.com/tVeFjdv.jpg" />
 
         <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_village_gradient.jpg" />
+            author="Mystic"
+            url="http://i.imgur.com/goffGwJ.jpg" />
+        
+        <wallpaper
+            author="Fiesta"
+            url="http://i.imgur.com/7KF6Cqu.jpg" />
 
         <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/just_reboot_abstract.png" />
-
-        <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/just_reboot_abstract2.png" />
-
-        <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/just_reboot_aokp_samurai.png" />
-
-        <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/just_reboot_wall_10.png" />
-
-        <wallpaper
-            author="KnokFirst"
-            url="http://aokp.co/wallpapers/knokfirst_phlashlogo_crazy.jpg" />
-
-        <wallpaper
-            author="KnokFirst"
-            url="http://aokp.co/wallpapers/knokfirst_phlashlogo_light.jpg" />
-
-        <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/knokfirst_phlashlogo.jpg" />
-
-        <wallpaper
-            author="kwes1020"
-            url="http://aokp.co/wallpapers/kwes1020_aokpwp1.png" />
-
-        <wallpaper
-            author="kwes1020"
-            url="http://aokp.co/wallpapers/kwes1020_aokpwp2.png" />
+            author="Nblue"
+            url="http://i.imgur.com/vtyMVsX.jpg" />
     </category>
 
-    <category name="Older Wallpapers" >
+    <category name="ParanoidAndroid" >
 
         <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_blue.jpg" />
-
+            author="PAMakoWall"
+            url="http://i.imgur.com/dxawTbL.jpg" />
+        
         <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_green.jpg" />
-
-        <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_orange.jpg" />
-
-        <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_setyourunicornfree.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x1.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x2.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x3.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x4.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x5.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x6.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensi_star.jpg" />
-
-        <wallpaper
-            author="SamsungClay"
-            url="http://aokp.co/wallpapers/samsungclay02.jpg" />
-    </category>
+            author="PAMakoWall-hg"
+            url="http://i.imgur.com/ZH6ZsVF.jpg" />
+        </category>
 
 </wallpapers>
