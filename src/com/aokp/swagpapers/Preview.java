@@ -1,4 +1,4 @@
-package com.ar.swagpapers;
+package com.aokp.swagpapers;
 
 import android.app.ActionBar;
 import android.app.Activity;
