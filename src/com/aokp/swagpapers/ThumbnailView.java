@@ -1,5 +1,4 @@
-
-package com.aokp.swagpapers;
+package com.ar.swagpapers;
 
 import android.content.Context;
 import android.util.AttributeSet;
