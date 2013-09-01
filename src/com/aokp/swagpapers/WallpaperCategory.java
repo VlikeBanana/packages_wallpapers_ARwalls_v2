@@ -1,4 +1,4 @@
-package com.ar.swagpapers;
+package com.aokp.swagpapers;
 
 import java.util.ArrayList;
 import java.util.List;
