@@ -1,5 +1,4 @@
-
-package com.aokp.swagpapers;
+package com.ar.swagpapers;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -59,7 +58,7 @@ public class WallpaperActivity extends Activity {
         mLoadingDialog = new ProgressDialog(this);
         mLoadingDialog.setCancelable(false);
         mLoadingDialog.setIndeterminate(true);
-        mLoadingDialog.setMessage("Retreiving wallpapers from server...");
+        mLoadingDialog.setMessage("Downloading Unicorn Porn from server...");
 
         mLoadingDialog.show();
         new LoadWallpaperManifest().execute();
