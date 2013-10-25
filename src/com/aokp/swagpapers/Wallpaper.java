@@ -1,4 +1,3 @@
-
 package com.aokp.swagpapers;
 
 public class Wallpaper {
